@@ -1,0 +1,3 @@
+1st install thonny ide 
+2nd go to tools - then manage plug in - search esp-tool then install
+3rd for to tools -  then options - interpreter - choose micropython esp32 then click on install button .
